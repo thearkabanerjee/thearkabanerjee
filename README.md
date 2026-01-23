@@ -4,7 +4,7 @@ Just a guy who loves open source and loves to build performant projects to make 
 
 ### What I’m working on
 
-Right now I’m deep into systems programming, terminal tools, automation projects, and strengthening on top of my fundamentals across CS, math, and system-level. You get a glimpse of everything I am doing if you stalk my Github well.
+Interests: operating systems, system level, dev tooling, full stack, web3, blockchain, and anything that catches my attention. You get a glimpse of everything I am doing if you stalk my Github well.
 
 ### Nerd Alert
 
@@ -12,9 +12,7 @@ Keyboards: Currently jumping between laptop keys and whatever mechanical keyboar
 
 Editor: Neovim / VS Code
 
-Interests: operating systems, dev tooling, backend, web3, blockchain, and anything that catches my attention.
-
-## The vibe
+### The vibe
 
 Work hard, bullish to build cool things that make the young me proud.
 

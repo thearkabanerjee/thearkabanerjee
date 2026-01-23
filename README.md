@@ -16,7 +16,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,bash,zig,lua,java,haskell,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,zig,lua,java,haskell,ocaml)](https://skillicons.dev)
 
 ### frameworks
 

@@ -12,8 +12,7 @@ Keyboards: Currently jumping between laptop keys and whatever mechanical keyboar
 
 Editor: Neovim / VS Code
 
-### The vibe
+### the Vibe
 
 Work hard, bullish to build cool things that make the young me proud.
 
-![crabgif](./rust.gif){ width = 100px }

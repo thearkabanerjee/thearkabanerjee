@@ -1,6 +1,6 @@
 ### thearkabanerjee
 
-Just a guy who loves open source and loves to build performant projects to make my developer workflow better and ultimately craft some really great software.
+Just a guy who loves open source and building fast systems, better tools, and a workflow I can be proud of.
 
 ### what I’m working on
 
@@ -16,7 +16,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,go,c,cpp,rust,bash,zig,lua,java,haskell,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,bash,zig,lua,java,haskell,ocaml)](https://skillicons.dev)
 
 ### frameworks
 

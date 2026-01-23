@@ -20,7 +20,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### frameworks + libraries + other skills
 
-![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,vue,vite,postman,aws,azure,bun,cloudflare,cmake,django,docker,electron,express,mongodb,nextjs,nodejs,supabase,kubernetes,git,)
+![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,vue,vite,postman,aws,nextjs,nodejs,azure,bun,cloudflare,cmake,django,electron,express,mongodb,supabase,kubernetes,docker,git,)
 
 ### editor of choice
 

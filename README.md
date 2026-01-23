@@ -16,4 +16,4 @@ Editor: Neovim / VS Code
 
 Work hard, bullish to build cool things that make the young me proud.
 
-![rust gif](./rust.gif)
+![crabgif](./rust.gif){width = 100px}

@@ -18,9 +18,9 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,haskell,lua,java,ocaml,swift)
 
-### frameworks + libraries + other skills
+<!-- ### frameworks + libraries + other skills
 
-![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,vue,vite,postman,aws,nextjs,nodejs,azure,bun,cloudflare,cmake,django,electron,express,mongodb,supabase,kubernetes,docker,git,)
+![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,vue,vite,postman,aws,nextjs,nodejs,azure,bun,cloudflare,cmake,django,electron,express,mongodb,supabase,kubernetes,docker,git,) -->
 
 ### editor of choice
 

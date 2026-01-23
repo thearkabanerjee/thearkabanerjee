@@ -16,3 +16,6 @@ Editor: Neovim / VS Code
 
 Work hard, bullish to build cool things that make the young me proud.
 
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,tailwind,go,c,c++)](https://skillicons.dev)

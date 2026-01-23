@@ -10,12 +10,14 @@ Interests: operating systems, system level, dev tooling, full stack, web3, block
 
 Keyboards: Currently jumping between laptop keys and whatever mechanical keyboard I can get my hands on (really love Cherry MX Brown switches thou)
 
-Editor: Neovim / VS Code
-
 ### the vibe
 
 Work hard, bullish to build cool things that make the young me proud.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,tailwind,go,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,tailwind,go,c,cpp,bash,)](https://skillicons.dev)
+
+### Editor
+
+[![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode)](https://skillicons.dev)

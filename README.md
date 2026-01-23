@@ -16,12 +16,12 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,haskell,lua,java,ocaml,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,haskell,lua,java,ocaml,swift)]
 
 ### frameworks + libraries + other skills
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,alpinejs,anaconda,arch,aws,azure,bun,cloudflare,cmake,django,docker,electron,express,mongodb,nextjs,nodejs,supabase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,arch,aws,azure,bun,cloudflare,cmake,django,docker,electron,express,mongodb,nextjs,nodejs,supabase,)]
 
 ### editor of choice
 
-[![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium)](https://skillicons.dev)
+[![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium)]

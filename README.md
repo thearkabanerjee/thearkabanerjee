@@ -24,5 +24,5 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### editor of choice
 
-![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium) <img src="zed.png" alt="Zed" width="50" />
+![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium) <img src="zed.png" alt="Zed" width="45" />
 

@@ -5,3 +5,6 @@ i have personally added a lot of things , i think i could have also added the fr
 
 
 i have added some really crappy code to make the zed code editor work, but i think if it works, it works..
+
+
+i think i am happy with what i have finished the github readme with but yeah looking forward to add more and more skills with each day passing

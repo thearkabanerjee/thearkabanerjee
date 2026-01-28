@@ -1,6 +1,6 @@
 ### thearkabanerjee
 
-Just a guy who loves open source and building fast systems, better tools, and a workflow I can be proud of.
+Just a guy who loves FOSS and building fast systems, better tools, and a workflow I can be proud of.
 
 ### what I’m working on
 

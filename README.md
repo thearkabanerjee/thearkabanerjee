@@ -4,7 +4,7 @@ Just a guy who loves FOSS and building fast systems, better tools, and a workflo
 
 ### what I’m working on
 
-Interests: full stack, web3, blockchains, operating systems, system level, dev tooling and anything that catches my attention. You get a glimpse of everything I am doing if you stalk my Github well.
+Interests: full stack, web3 && blockchains, operating systems, system level, dev tooling and anything that catches my attention. You get a glimpse of everything I am doing if you stalk my Github well.
 
 ### nerd alert
 

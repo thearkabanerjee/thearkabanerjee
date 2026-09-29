@@ -16,7 +16,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### languages
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,c,cpp,rust,solidity,haskell,lua,java,ocaml,swift)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,go,cpp,java,bash,rust,solidity,lua,swift)
 
 <!-- ### frameworks + libraries + other skills
 
@@ -24,5 +24,5 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### editor of choice
 
-![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium)&nbsp;&nbsp;<img src="zed.png" alt="Zed" width="47" style="margin-left:0px;" />
+![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode)
 

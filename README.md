@@ -24,5 +24,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### editor of choice
 
-![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim,vscode)
+![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim)
+
+<!-- stopped using vs code, switched to nvim entirely -->
 

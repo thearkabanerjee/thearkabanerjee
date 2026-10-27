@@ -22,9 +22,9 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ![My Skills](https://skillicons.dev/icons?i=tailwind,react,bash,anaconda,vue,vite,postman,aws,nextjs,nodejs,azure,bun,cloudflare,cmake,django,electron,express,mongodb,supabase,kubernetes,docker,git,) -->
 
-### editor of choice
+### workflow
 
-![Editor of Choice](https://skillicons.dev/icons?i=vim,neovim)
+![workflow]((https://skillicons.dev/icons?i=vim,neovim)(https://skills.syvixor.com/api/icons?i=tmux))
 
 <!-- stopped using vs code, switched to nvim entirely -->
 

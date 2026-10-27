@@ -8,7 +8,7 @@ Interests: full stack, web3 && blockchains, operating systems, system level, dev
 
 ### nerd alert
 
-Keyboards: Currently jumping between laptop keys and whatever mechanical keyboard I can get my hands on (really love Cherry MX Brown switches thou)
+Keyboards: Currently jumping between laptop keys and whatever mechanical keyboard I can get my hands on (really love Cherry MX Pink switches rn thou)
 
 ### the vibe
 

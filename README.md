@@ -24,7 +24,7 @@ Work hard, bullish to build cool things that make the young me proud.
 
 ### workflow
 
-![workflow](https://skillicons.dev/icons?i=neovim) ![tmux](https://skills.syvixor.com/api/icons?i=tmux)
+![workflow](https://skillicons.dev/icons?i=neovim) ![tmux](https://skills.syvixor.com/api/icons?i=tmux) ![ssh](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png)
 <!-- stopped using vs code, switched to nvim entirely -->
 
 <!-- since i don't really use vanilla vim i think its best suited for it to be not here -->
